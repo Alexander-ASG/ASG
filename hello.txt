@@ -1,9 +1,9 @@
 павр
 qaz
-<<<<<<< 25c8248eeb52dd68adbdeea801c0d3d66aafabe8
+
 лоо
-=======
+
 wazzap
 edcvfr
 error
->>>>>>> 4bdf690efde7818e2f09cc876b59e4840a075069
+
